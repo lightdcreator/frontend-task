@@ -1016,72 +1016,12 @@ video {
   --tw-bg-opacity: 0.75;
 }
 
-.bg-\[url\(\'https\:\/\/images\.pexels\.com\/photos\/364984\/pexels-photo-364984\.jpeg\?auto\=compress\&cs\=tinysrgb\&w\=1260\&h\=750\&dpr\=1\'\)\] {
-  background-image: url('https://images.pexels.com/photos/364984/pexels-photo-364984.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1');
+.bg-\[url\(\'images\/awsbg\.png\'\)\] {
+  background-image: url('images/awsbg.png');
 }
 
 .bg-gradient-to-r {
   background-image: linear-gradient(to right, var(--tw-gradient-stops));
-}
-
-.bg-\[url\(\'\'\)\] {
-  background-image: url('');
-}
-
-.bg-\[url\(\'ima\'\)\] {
-  background-image: url('ima');
-}
-
-.bg-\[url\(\'imag\'\)\] {
-  background-image: url('imag');
-}
-
-.bg-\[url\(\'images\'\)\] {
-  background-image: url('images');
-}
-
-.bg-\[url\(\'images\/\'\)\] {
-  background-image: url('images/');
-}
-
-.bg-\[url\(\'images\/rfsbg\.jpg\'\)\] {
-  background-image: url('images/rfsbg.jpg');
-}
-
-.bg-\[url\(\'images\/dist\/images\/rfsbg\.jpg\'\)\] {
-  background-image: url('images/dist/images/rfsbg.jpg');
-}
-
-.bg-\[url\(\'\/images\/rfsbg\.jpg\'\)\] {
-  background-image: url('/images/rfsbg.jpg');
-}
-
-.bg-\[url\(\'https\:\/\/www\.google\.com\/url\?sa\=i\&url\=https\%3A\%2F\%2Fwww\.channele2e\.com\%2Fpost\%2Fmission-cloud-acquires-aws-dozen-software\&psig\=AOvVaw0RYhHOwhqPRABA11fROHqR\&ust\=1711120898800000\&source\=images\&cd\=vfe\&opi\=89978449\&ved\=0CBIQjRxqFwoTCKip8JvUhYUDFQAAAAAdAAAAABAE\'\)\] {
-  background-image: url('https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.channele2e.com%2Fpost%2Fmission-cloud-acquires-aws-dozen-software&psig=AOvVaw0RYhHOwhqPRABA11fROHqR&ust=1711120898800000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKip8JvUhYUDFQAAAAAdAAAAABAE');
-}
-
-.bg-\[url\(\'ission-cloud-acquires-aws-dozen-software\&psig\=AOvVaw0RYhHOwhqPRABA11fROHqR\&ust\=1711120898800000\&source\=images\&cd\=vfe\&opi\=89978449\&ved\=0CBIQjRxqFwoTCKip8JvUhYUDFQAAAAAdAAAAABAE\'\)\] {
-  background-image: url('ission-cloud-acquires-aws-dozen-software&psig=AOvVaw0RYhHOwhqPRABA11fROHqR&ust=1711120898800000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKip8JvUhYUDFQAAAAAdAAAAABAE');
-}
-
-.bg-\[url\(\'\\78449\&ved\=0CBIQjRxqFwoTCKip8JvUhYUDFQAAAAAdAAAAABAE\'\)\] {
-  background-image: url('\78449&ved=0CBIQjRxqFwoTCKip8JvUhYUDFQAAAAAdAAAAABAE');
-}
-
-.bg-\[url\(\'image\'\)\] {
-  background-image: url('image');
-}
-
-.bg-\[url\(\'images\/aws\'\)\] {
-  background-image: url('images/aws');
-}
-
-.bg-\[url\(\'images\/awsbg\.p\'\)\] {
-  background-image: url('images/awsbg.p');
-}
-
-.bg-\[url\(\'images\/awsbg\.png\'\)\] {
-  background-image: url('images/awsbg.png');
 }
 
 .from-cyan-500 {
